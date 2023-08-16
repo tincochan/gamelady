@@ -1,4 +1,4 @@
-# Game l
+# Game Lady
 
 A Game Boy emulator written by Tinc0 CHAN, in Go.
 
@@ -8,7 +8,7 @@ A Game Boy emulator written by Tinc0 CHAN, in Go.
 2. Edit `main.go` to point at [a ROM that you've downloaded](https://www.emulatorgames.net/roms/gameboy/) (TODO: add as a command line flag)
 3. `go run .`
 
-## Is Gamebert any good?
+## Is Game Lady any good?
 
 Overall I think it's alright!
 
